@@ -1,5 +1,5 @@
 <p>
-<img src="https://github.com/UkashFarooq/UkashFarooq/blob/main/Ukash_Intro1.gif", width="900px">
+<img src="https://github.com/UkashFarooq/UkashFarooq/blob/main/Ukash_Intro1.gif", width="800px">
 </p>
 ### Hi there 👋
 <!--
