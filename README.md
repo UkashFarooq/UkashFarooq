@@ -1,7 +1,7 @@
-### Hi there 👋
 <p>
-<img src="https://github.com/UkashFarooq/UkashFarooq/blob/main/Ukash_Intro1.gif">
+<img src="https://github.com/UkashFarooq/UkashFarooq/blob/main/Ukash_Intro1.gif",width="80%">
 </p>
+### Hi there 👋
 <!--
 **UkashFarooq/UkashFarooq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
