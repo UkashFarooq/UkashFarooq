@@ -17,7 +17,7 @@
 
 - 🌱 I’m currently learning Data Science, Azure and AI. 
 
-- 👯 I’m looking to collaborate on Projects,Tech Articles 
+- 👯 I’m looking to collaborate on Projects.
 
 - 💬 Talk to me about Freelancing Opportunities, AI, ML, Python and Frontend. 
   
